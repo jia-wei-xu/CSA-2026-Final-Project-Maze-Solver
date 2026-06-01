@@ -1,9 +1,3 @@
-/**
- * AP CSA Project: High-Performance Micromouse Maze
- * 
- * Fix: Memory Pre-Allocation and Parallel Array structures to eliminate GC lag.
- */
-
 player.onChat("maze", function () {
     let originZ = 0
     let originX = 0
